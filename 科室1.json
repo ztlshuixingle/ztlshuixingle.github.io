@@ -1,0 +1,77 @@
+{
+  "odata.metadata": "https://example-hospital.org/api/departments/$metadata#Departments",
+  "value": [
+    {
+      "ID": 101,
+      "CategoryID": 1,
+      "Name": "内科",
+      "Description": "负责诊治各种内科疾病，如呼吸、消化、心血管等。",
+      "Address": "住院楼3层",
+      "Doctor": "李强"
+    },
+    {
+      "ID": 102,
+      "CategoryID": 1,
+      "Name": "呼吸内科",
+      "Description": "负责诊治呼吸系统疾病。",
+      "Address": "住院楼3层",
+      "Doctor": "王伟"
+    },
+    {
+      "ID": 103,
+      "CategoryID": 1,
+      "Name": "消化内科",
+      "Description": "负责诊治消化系统疾病。",
+      "Address": "住院楼4层",
+      "Doctor": "张鹏"
+    },
+    {
+      "ID": 201,
+      "CategoryID": 2,
+      "Name": "外科",
+      "Description": "进行各类手术治疗，包括普外、神经外科等。",
+      "Address": "住院楼5层",
+      "Doctor": "王军"
+    },
+    {
+      "ID": 202,
+      "CategoryID": 2,
+      "Name": "神经外科",
+      "Description": "专注于神经系统手术治疗。",
+      "Address": "住院楼5层",
+      "Doctor": "李华"
+    },
+    {
+      "ID": 203,
+      "CategoryID": 2,
+      "Name": "骨科",
+      "Description": "负责骨骼系统疾病和损伤的手术治疗。",
+      "Address": "住院楼6层",
+      "Doctor": "陈刚"
+    },
+    {
+      "ID": 301,
+      "CategoryID": 3,
+      "Name": "妇产科",
+      "Description": "负责妇女保健、产前检查、产后护理等。",
+      "Address": "门诊楼2层",
+      "Doctor": "张丽"
+    },
+    {
+      "ID": 401,
+      "CategoryID": 4,
+      "Name": "儿科",
+      "Description": "提供儿童健康检查、疾病诊治服务。",
+      "Address": "门诊楼3层",
+      "Doctor": "赵敏"
+    },
+    {
+      "ID": 501,
+      "CategoryID": 5,
+      "Name": "眼科",
+      "Description": "诊治各类眼科疾病，提供视力矫正服务。",
+      "Address": "专科楼4层",
+      "Doctor": "陈光"
+    }
+  ]
+}
