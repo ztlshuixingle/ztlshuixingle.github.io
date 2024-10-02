@@ -1,0 +1,21 @@
+{
+       "value": [
+        {
+            "ID": 0,
+            "Name": "外科",
+            "Description": "是外科的诊疗",
+            "ReleaseDate": "1992-01-01T00:00:00",
+            "DiscontinuedDate": null,
+            "address": "2—3D",
+            "doctor": "李医生"
+        },
+        {
+            "ID": 1,
+            "Name": "内科",
+            "Description": "是内科的诊疗",
+            "ReleaseDate": "1995-10-01T00:00:00",
+            "DiscontinuedDate": null,
+            "address": "2-1D",
+            "doctor": "王医生"
+        }    ]
+}
