@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "CategoryID": 1,
+      "CategoryName": "内科"
+    },
+    {
+      "CategoryID": 2,
+      "CategoryName": "外科"
+    },
+    {
+      "CategoryID": 3,
+      "CategoryName": "妇产科"
+    },
+    {
+      "CategoryID": 4,
+      "CategoryName": "儿科"
+    },
+    {
+      "CategoryID": 5,
+      "CategoryName": "眼科"
+    }
+  ]
+}
