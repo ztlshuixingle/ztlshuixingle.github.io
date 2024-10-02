@@ -1,95 +1,109 @@
 {
-  "hospital_departments": [
+  "value": [
     {
-      "name": "内科",
-      "address": "住院楼3层",
-      "id": "101",
-      "doctor": "李强"
+      "ID": 101,
+      "Name": "内科",
+      "Description": "负责诊治各种内科疾病，如呼吸、消化、心血管等。",
+      "Address": "住院楼3层",
+      "Doctor": "李强"
     },
     {
-      "name": "外科",
-      "address": "住院楼5层",
-      "id": "102",
-      "doctor": "王军"
+      "ID": 102,
+      "Name": "外科",
+      "Description": "进行各类手术治疗，包括普外、神经外科等。",
+      "Address": "住院楼5层",
+      "Doctor": "王军"
     },
     {
-      "name": "妇产科",
-      "address": "门诊楼2层",
-      "id": "103",
-      "doctor": "张丽"
+      "ID": 103,
+      "Name": "妇产科",
+      "Description": "负责妇女保健、产前检查、产后护理等。",
+      "Address": "门诊楼2层",
+      "Doctor": "张丽"
     },
     {
-      "name": "儿科",
-      "address": "门诊楼3层",
-      "id": "104",
-      "doctor": "赵敏"
+      "ID": 104,
+      "Name": "儿科",
+      "Description": "提供儿童健康检查、疾病诊治服务。",
+      "Address": "门诊楼3层",
+      "Doctor": "赵敏"
     },
     {
-      "name": "眼科",
-      "address": "专科楼4层",
-      "id": "105",
-      "doctor": "陈光"
+      "ID": 105,
+      "Name": "眼科",
+      "Description": "诊治各类眼科疾病，提供视力矫正服务。",
+      "Address": "专科楼4层",
+      "Doctor": "陈光"
     },
     {
-      "name": "耳鼻喉科",
-      "address": "专科楼3层",
-      "id": "106",
-      "doctor": "孙伟"
+      "ID": 106,
+      "Name": "耳鼻喉科",
+      "Description": "专注耳、鼻、喉部疾病的诊疗。",
+      "Address": "专科楼3层",
+      "Doctor": "孙伟"
     },
     {
-      "name": "口腔科",
-      "address": "专科楼2层",
-      "id": "107",
-      "doctor": "吴洋"
+      "ID": 107,
+      "Name": "口腔科",
+      "Description": "提供牙齿健康护理和口腔疾病治疗。",
+      "Address": "专科楼2层",
+      "Doctor": "吴洋"
     },
     {
-      "name": "皮肤科",
-      "address": "门诊楼4层",
-      "id": "108",
-      "doctor": "黄静"
+      "ID": 108,
+      "Name": "皮肤科",
+      "Description": "皮肤疾病的诊疗，提供皮肤健康建议。",
+      "Address": "门诊楼4层",
+      "Doctor": "黄静"
     },
     {
-      "name": "精神科",
-      "address": "住院楼6层",
-      "id": "109",
-      "doctor": "刘敏"
+      "ID": 109,
+      "Name": "精神科",
+      "Description": "诊治精神健康问题，提供心理咨询。",
+      "Address": "住院楼6层",
+      "Doctor": "刘敏"
     },
     {
-      "name": "康复医学科",
-      "address": "康复中心1层",
-      "id": "110",
-      "doctor": "杨勇"
+      "ID": 110,
+      "Name": "康复医学科",
+      "Description": "提供康复训练，帮助患者恢复功能。",
+      "Address": "康复中心1层",
+      "Doctor": "杨勇"
     },
     {
-      "name": "麻醉科",
-      "address": "手术中心",
-      "id": "111",
-      "doctor": "范涛"
+      "ID": 111,
+      "Name": "麻醉科",
+      "Description": "为手术患者提供麻醉和术后管理服务。",
+      "Address": "手术中心",
+      "Doctor": "范涛"
     },
     {
-      "name": "放射科",
-      "address": "影像楼1层",
-      "id": "112",
-      "doctor": "田峰"
+      "ID": 112,
+      "Name": "放射科",
+      "Description": "提供影像检查如X光、CT等诊断服务。",
+      "Address": "影像楼1层",
+      "Doctor": "田峰"
     },
     {
-      "name": "检验科",
-      "address": "检验中心2层",
-      "id": "113",
-      "doctor": "张华"
+      "ID": 113,
+      "Name": "检验科",
+      "Description": "进行各类医学检验，提供诊断依据。",
+      "Address": "检验中心2层",
+      "Doctor": "张华"
     },
     {
-      "name": "病理科",
-      "address": "病理中心1层",
-      "id": "114",
-      "doctor": "周平"
+      "ID": 114,
+      "Name": "病理科",
+      "Description": "为患者提供病理检查，确定诊断。",
+      "Address": "病理中心1层",
+      "Doctor": "周平"
     },
     {
-      "name": "中医科",
-      "address": "中医楼3层",
-      "id": "115",
-      "doctor": "邓刚"
+      "ID": 115,
+      "Name": "中医科",
+      "Description": "提供中医诊疗服务，结合中西医进行治疗。",
+      "Address": "中医楼3层",
+      "Doctor": "邓刚"
     }
   ]
 }
-
