@@ -1,5 +1,4 @@
 {
-  "odata.metadata": "https://example-hospital.org/api/departments/$metadata#Departments",
   "value": [
     {
       "ID": 101,
