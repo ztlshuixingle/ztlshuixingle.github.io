@@ -1,0 +1,69 @@
+{
+  "odata.metadata": "https://example-hospital.org/api/checkups/$metadata#Checkups",
+  "value": [
+    {
+      "ID": 301,
+      "CategoryID": 1,
+      "Name": "血常规",
+      "Description": "用于检测血液中的红细胞、白细胞、血红蛋白等指标。",
+      "Department": "检验科",
+      "Preparation": "无需空腹"
+    },
+    {
+      "ID": 302,
+      "CategoryID": 1,
+      "Name": "尿常规",
+      "Description": "用于检测尿液中的白细胞、红细胞、蛋白质等成分。",
+      "Department": "检验科",
+      "Preparation": "清晨第一次尿液更佳"
+    },
+    {
+      "ID": 303,
+      "CategoryID": 2,
+      "Name": "心电图",
+      "Description": "检查心脏的电活动，检测心律不齐、心肌缺血等问题。",
+      "Department": "心内科",
+      "Preparation": "保持放松，避免剧烈运动"
+    },
+    {
+      "ID": 304,
+      "CategoryID": 2,
+      "Name": "胸部X光",
+      "Description": "用于检查肺部及心脏的健康状况，筛查结核、肺炎等疾病。",
+      "Department": "放射科",
+      "Preparation": "检查时需摘除金属饰品"
+    },
+    {
+      "ID": 305,
+      "CategoryID": 3,
+      "Name": "腹部超声",
+      "Description": "检查腹部器官，如肝脏、胆囊、胰腺等的结构和功能。",
+      "Department": "超声科",
+      "Preparation": "检查前需空腹6小时"
+    },
+    {
+      "ID": 306,
+      "CategoryID": 3,
+      "Name": "肾功能检查",
+      "Description": "检测血液中肌酐、尿素氮等指标，评估肾脏的过滤功能。",
+      "Department": "检验科",
+      "Preparation": "抽血前需空腹"
+    },
+    {
+      "ID": 307,
+      "CategoryID": 4,
+      "Name": "糖耐量测试",
+      "Description": "通过口服葡萄糖液体，评估身体对糖的代谢能力。",
+      "Department": "内分泌科",
+      "Preparation": "测试前需空腹8小时"
+    },
+    {
+      "ID": 308,
+      "CategoryID": 5,
+      "Name": "眼底检查",
+      "Description": "通过眼底镜观察视网膜和视神经，检测眼部疾病。",
+      "Department": "眼科",
+      "Preparation": "检查前可能需要散瞳"
+    }
+  ]
+}
